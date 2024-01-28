@@ -129,7 +129,7 @@ const experiences = [
         ],
     },
     {
-        title: "React Native Developer",
+        title: "Vue.js Developer",
         company_name: "Tesla",
         icon: tesla,
         iconBg: "#E6DEDD",
